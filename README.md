@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sudiptaroyshuvo. I am explorer of the Geospatial World.
-- 👀 I’m interested in Reading, photography, Hiking, Coding and Writing.
-- 🌱 I’m currently learning how to process the SAR data and it's huge potential 
-- 💞️ I’m looking to collaborate on processing and analysis of SAR data, Optical data and the machine learning aspects on remote sensing
+- 👋 Hi, I’m @sudiptaroyshuvo. I am an explorer of the Geospatial World.
+- 👀 I’m interested in Reading, photography, Hiking, Coding, and Writing.
+- 🌱 I’m currently developing new plugins for QGIS,  which shorten complex workflows and focus on developing end products based on inputs
+- 💞️ I’m looking forward to collaborating on similar projects where we create new plugins in QGIS that can do complex calculations based on the inputs provided by the users
 - 📫 Contact me at (https://www.linkedin.com/in/sudipta-roy-35675685/)
 
 <!---
